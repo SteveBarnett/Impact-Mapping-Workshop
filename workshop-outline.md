@@ -1,26 +1,26 @@
 # Impact Mapping Workshop outline
 
-## Intro 5m
+## Intro 10m
 
 General introduction, talk about roles.
 
-[Intro presentation](decks/Impact mapping intro.pdf)
+[Intro presentation](decks/impact-mapping-intro.pdf)
 
 ## The Map 10m
 
 The specifics of an Impact Map.
 
-[Why, Who, How, What map handout](deck/Impact mapping.pdf)
+[Why, Who, How, What map handout](maps/impact-map-why-who-how-what.pdf): map with Why, Who, How, What.
 
-[Maps print out for wall](decks/impact-mapping-print-outs-map.pdf)
+[Maps print out for wall](decks/print/impact-mapping-map.pdf): big Why, Who, How, What pages.
 
 ## Example 5m
 
-Discuss the [Example Impact Map](decks/Impact mapping example.pdf)
+Discuss the [Example Impact Map](maps/impact-mapping-example.pdf)
 
 ## Agenda presentation 5m
 
-[Quick agenda presentation](decks/schedule.pdf)
+[Quick agenda presentation](decks/agenda.pdf)
 
 ## Preparation
 
@@ -33,7 +33,7 @@ Stickies on the wall.
 
 ### 2. Define good measurements 20m
 
-Talk through [Measurement printouts for the wall](decks/measurements.pdf).
+Talk through [Measurement printouts for the wall](decks/print/measurements.pdf). 
 
 Stickies on the wall.
 
@@ -52,9 +52,10 @@ Weigh the decisions.
 
 ## Mapping
 
-### 1. Draw the map skeleton 20m
+### 1. Draw the map skeleton 40m
 
-Stickies on the whiteboard.
+* Stickies on the whiteboard.
+* Use different coloured stickies for each step. Circle each layer off.
 
 * All the way through.
 * Just get a rough first draft.
@@ -62,7 +63,7 @@ Stickies on the whiteboard.
 
 ### 2. Find alternatives 20m
 
-Collaborative game?
+Optionally use [find alternatives print out](./decks/print/find-alternatives.pdf).
 
 * What else could they do for us?
 * Who else can help? How?
